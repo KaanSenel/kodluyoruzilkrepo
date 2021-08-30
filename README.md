@@ -2,6 +2,8 @@
 
 Bu repo Kodluyoruz GIT Eğitimi kapsamında açtığım ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
+![] (https://www.hizliresim.com/2x6o7l7)
+
 ## Installation
 
 Öncelikle projeyi clonelayın. 
